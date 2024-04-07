@@ -1,0 +1,12 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "this is just a demo",
+  "main": "index.js",
+  "author": "salmontone",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.7.2",
+    "dotenv": "^16.4.5"
+  }
+}

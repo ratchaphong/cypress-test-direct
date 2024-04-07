@@ -1,0 +1,84 @@
+{
+  "email": {
+    "id": "email",
+    "nameTh": "",
+    "nameEn": "",
+    "description": "",
+    "value": "underwrite-customer00@test.com"
+  },
+  "phoneNumber": {
+    "id": "phoneNumber",
+    "nameTh": "",
+    "nameEn": "",
+    "description": "",
+    "value": "0972201973"
+  },
+  "password": {
+    "id": "password",
+    "nameTh": "",
+    "nameEn": "",
+    "description": "",
+    "value": "Tqd12345"
+  },
+  "loginButton": {
+    "id": "direct-login-submit",
+    "nameTh": "เข้าสู่ระบบ",
+    "nameEn": "Log in",
+    "description": "",
+    "value": ""
+  },
+  "changeUsername": {
+    "id": "direct-change-username",
+    "nameTh": "",
+    "nameEn": "",
+    "description": "",
+    "value": ""
+  },
+  "languageSwitch": {
+    "id": "direct-layout-language",
+    "nameTh": "",
+    "nameEn": "",
+    "description": "",
+    "value": ""
+  },
+  "warningModal": {
+    "id": "direct-warning-login",
+    "nameTh": "ขออภัยในความไม่สะดวก",
+    "nameEn": "Apologies for the inconvenience",
+    "description": "",
+    "value": "",
+    "confirmButton": {
+      "id": "direct-warning-login-confirm",
+      "nameTh": "",
+      "nameEn": "",
+      "description": "",
+      "value": ""
+    }
+  },
+  "pathRegister": {
+    "id": "direct-path-register-login",
+    "nameTh": "",
+    "nameEn": "",
+    "description": "",
+    "value": ""
+  },
+  "pathForgot": {
+    "id": "direct-path-forgot-login",
+    "nameTh": "",
+    "nameEn": "",
+    "description": "",
+    "value": ""
+  },
+  "user1": {
+    "email": "underwrite-customer00@test.com",
+    "password": "Tqd12345"
+  },
+  "user2": {
+    "phoneNumber": "0972201973",
+    "password": "Be220216"
+  },
+  "user3": {
+    "phoneNumber": "0972201973",
+    "password": "Be22021X"
+  }
+}
